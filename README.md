@@ -71,7 +71,7 @@ Pull requests are welcome! If you'd like to add features, feel free to fork the 
 This project is licensed under the MIT License.
 
 ## 🔗 Contact
-For questions or feedback, reach out at [your-email@example.com](mailto:your-email@example.com) or create an issue on GitHub.
+For questions or feedback, reach out at [your-email@example.com](dharmainak2003@gmail.com) or create an issue on GitHub.
 
 ---
 Enjoy classifying snakes! 🐍🔥
