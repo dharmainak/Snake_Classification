@@ -17,8 +17,8 @@ st.subheader("Choose a preset image or upload your own")
 # Preset images (Add your own image paths here)
 preset_images = {
     "Venomous Snake 1": "./01AS-N8UP.jpg",
-    "Venomous Snake 2": "./01AS-N8UQ.jpg",
-    "Non-Venomous Snake 1": "./1_010.jpg"
+    "Venomous Snake 2":"./1_010.jpg",
+    "Non-Venomous Snake 1": "./0e07f0ba188cf87784d3c48f54e91ce3.jpg"
 }
 
 # Select preset image
